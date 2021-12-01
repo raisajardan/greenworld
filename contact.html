@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <title></title>
+     <link rel="stylesheet" type="text/css" media="all" href="css\style.css" />
+</head>
+<body>
+  <div class="title">
+        Contacte                <ul class="breadcrumbs">
+         <li style="padding-left: 0px; background: none;"><a href="home.html">Home</a></li>
+                  <li><a href="contact.html">Contacte</a></li>
+                 </ul><div class="clear"></div>
+              </div>
+  <div id="mesage">
+     <form class="gform pure-form pure-form-stacked" method="POST" data-email="greenworldusers@gmail.com" action="https://script.google.com/macros/s/AKfycbxN7RfQ7kVQyCxe1FBjPBVH9K0zzUckH70TbOyeipor81vm9jlXyNPCCnhytCOhhcDz/exec">
+   <div class="form-elements">
+         <fieldset class="pure-group">
+           <label for="name" id="cont">Nume: </label>
+           <input type="text" id="name" name="name" placeholder="Nume">
+        </fieldset>
+          <br>
+          <fieldset class="pure-group">
+           <label for="email" id="cont">Email-ul dvs. :</label>
+           <input id="email" name="email" type="email" required="" placeholder="emailul.dvs@email.com">
+           <span class="email-invalid" style="display:none">
+           Trebuie sa fie un email real şi valid</span>
+         </fieldset>
+         <br>
+         <fieldset class="pure-group">
+                 <label for="message" id="cont">Mesaj: </label>
+                 <textarea id="message" name="message" rows="10" placeholder="Introduceţi denumirea produsului - cantitatea . Numarul dvs de contact."></textarea>
+               </fieldset>
+
+       <br>
+       <div class="text-center">
+         <input type="submit" value="Transmite" name="Submit" onclick="showtnx();">
+        </div>
+        <p style="text-align:center" id="cont">Revenim cu un email . Verificaţi căsuţa postală .</p>
+       
+      </div>
+      <!-- Submit the Form to Google Using "AJAX" -->
+   <script data-cfasync="false" type="text/javascript" src="js/form-submission-handler.js"></script>
+   <!-- END -->
+    </div></form> 
+    <div class="thankyou_message" style="display:none;" id="cont1">
+              <h2 id="cont">Mulţumim că aţi ales serviciile noastre!</h2>
+            </div>
+</body>
+<script src="js/jquery-2.1.3.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+</html>
