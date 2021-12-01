@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" media="all" href="../../css/style.css" />
+</head>
+<body>
+<div class="right">
+   <div class="right-cont">
+	 
+	 <div class="shop-content">
+	  <div class="shop-content-in">
+	
+	
+	   <div class="title">
+		Gel de duş cu extract de măsline		<ul class="breadcrumbs">
+		 <li style="padding-left: 0px; background: none;"><a href="../../home.html">Home</a></li>
+		 <li><a href="../../product.html">Catalog</a></li>
+		 		 <li><a href="gel-de-dus-cu-extract-de-masline.html">Gel de duş cu extract de măsline</a></li>
+	    </ul><div class="clear"></div>
+	   </div>
+	   
+	   <div class="product-photo">
+				<a class="default" href="../../imgs/description-images/2/4f5b603f223cb2f5693ddaaddafa5230.jpg" rel="group" title=""><img src="../../imgs/description-images/2/4f5b603f223cb2f5693ddaaddafa5230.jpg" width="200"></a>
+	   </div>
+	   <div class="product-details">
+		<div class="item">
+		 <div class="line"><span>Producător:</span><a href="https://greenworld.md/ro/catalog/brand/greenworld">Green World </a></div>
+		 <div class="line"><span>Categorii:</span>
+		  		   		    <a href="https://greenworld.md/ro/catalog/category/products_green">Produse</a>		   		  		 </div>
+		</div>
+		<div class="item price-container">
+		 <div class="line">
+		  <span>Preţ:</span>
+		  		  <span class="price">- </span>
+		 </div>
+		</div>
+		<!--<div class="item">
+		 <span>Cantitate:</span><input type="text" class="quantity-input" value="1">
+		 <a class="button-green add-to-cart-big" href="https://greenworld.md/ro/cart/add_to_cart" product_id="87"><span>Adaugă în coş</span></a>
+		</div>-->
+           <div class="contact-bottom">
+                Tel: +373 078104704 <br>Email: greenworldusers@gmail.com <br>Telegram: +373 078104704
+           </div>
+	   </div><div class="clear"></div>
+	   
+	   	   <div class="page-text">
+		<p>
+	<span style="color:#ff0000;"><strong>Compoziție</strong></span>: apă deionizată, uilei de măsline, extract de măslin, agent tensioactiv.</p>
+<p>
+	<span style="color:#ff0000;"><strong>Ambalaj</strong></span>: 250ml</p>
+<p>
+	<span style="color:#ff0000;"><strong>Mod de utilizare:</strong></span> Cantitatea necesară de gel se pune pe un burete, făcînd spumă.Se aplică pe corp.Se clătește cu apă.</p>
+<p>
+	<span style="color:#ff0000;"><strong>Recomandări</strong></span>: Curăță bine pielea și tonifică.Hrănește și hidratează,.</p>
+	   </div>
+
+	          <div class="clear"></div>
+        <div class="contact-bottom">
+            Tel: +373 078104704 &nbsp;&nbsp;&nbsp;&nbsp;Email: greenworldusers@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;Telegram: +373 078104704
+        </div>
+
+		<!--<fb:comments href="https://greenworld.md/ro/catalog/product/67" send="true" num_posts="10" width="500" show_faces="false"></fb:comments> -->
+       </div>
+	  </div>
+     </div><div class="clear"></div>
+    
+	
+	</div>
+</body>
+</html>
